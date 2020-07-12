@@ -1,0 +1,35 @@
+{
+  "name": "starter-kits",
+  "version": "0.0.1",
+  "private": true,
+  "description": "experimental starter kits for various front-end development",
+  "directories": {
+    "doc": "docs"
+  },
+  "workspaces": [
+    "src",
+    "tools",
+    "framework",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonirrings/starter-kits"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.11.1",
+    "prettier": "^2.0.5",
+    "stylelint": "^13.6.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-order": "^4.1.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
