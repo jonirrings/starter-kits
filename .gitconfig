@@ -1,0 +1,5 @@
+[core]
+    ignorecase = false
+    autocrlf = false
+[commit]
+    template = .gitmessage

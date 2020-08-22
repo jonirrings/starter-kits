@@ -2,15 +2,13 @@
   "name": "starter-kits",
   "version": "0.0.1",
   "private": true,
-  "description": "experimental starter kits for various front-end development",
+  "description": "another starter kit for dva",
   "directories": {
     "doc": "docs"
   },
   "workspaces": [
     "src",
-    "tools",
-    "framework",
-    "theme"
+    "tools"
   ],
   "repository": {
     "type": "git",
